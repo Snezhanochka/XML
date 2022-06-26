@@ -1,0 +1,8 @@
+  <Bug_report>
+	
+	 <title>The item doesn't add to the cart</title>
+	  <STR>Open the catalog, choose any item, click 'Add to the cart' button</STR>
+	  <Environment>Windows 10 Pro, Google Chrome 98.0.4758.102</Environment>
+	  <Severity>Blocker</Severity>
+	  
+	 </Bug_report>
